@@ -1,6 +1,6 @@
 # MemesWar Bot
 
-An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) tasks and activities.
+An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=U351G5) tasks and activities.
 
 ## Features
 
@@ -81,16 +81,5 @@ node main.js
 
 ## Register
 
-New to MemesWar? Register using [this link](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) to get started with additional benefits!
+New to MemesWar? Register using [this link](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=U351G5) to get started with additional benefits!
 
-## Warning
-
-This is an unofficial bot. Use at your own risk. The authors are not responsible for any consequences of using this bot.
-
-## Contributing
-
-Feel free to submit issues and pull requests to help improve the bot.
-
-## License
-
-[MIT License](LICENSE)
