@@ -7,7 +7,7 @@ const banner = require("./config/banner");
 
 // Constants
 const CONSTANTS = {
-  TARGET_GUILD_ID: "806b815d-4a46-4454-bb2b-b8904391add9",
+  TARGET_GUILD_ID: "26971355-52d5-4f01-ae88-6c9244f34a10",
   MIN_WARBOND_THRESHOLD: 1000,
   BASE_URL: "https://memes-war.memecore.com/api",
   COUNTDOWN_INTERVAL: 65 * 60,
@@ -74,7 +74,7 @@ class MemesWarAPI {
 
         if (!inputReferralCode) {
           await axios.put(
-            `${CONSTANTS.BASE_URL}/user/referral/3K4X6N`,
+            `${CONSTANTS.BASE_URL}/user/referral/U351G5`,
             {},
             { headers }
           );
